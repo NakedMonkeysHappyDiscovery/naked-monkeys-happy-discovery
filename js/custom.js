@@ -8,7 +8,8 @@
 	
 		// $(".banner-image").backstretch('images/banner.jpg'); /* banner bg img */
 		$(".banner-image").backstretch('images/HomePageBGImage.png'); /* banner bg img */
-		$(".promo-image").backstretch('images/P2-IMG3.png');
+		$(".promo-image").backstretch('images/P2-IMG4.png');
+		// $(".demo-image").backstretch('images/P4-BGI.png');
 		
 		// Fixed header
 		//-----------------------------------------------
